@@ -1,2 +1,3 @@
 This file should be encrypted because it exists in the pillar directory
 ...maybe after reset?
+...maybe after fixing the attributes directory?
