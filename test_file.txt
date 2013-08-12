@@ -1,14 +1,4 @@
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (Darwin)
+This is a file that needs to be encrypted
+Another change
+and another
 
-hQEMAwPhTt66M559AQgAify+wQM93n9WWsKRMuSZUaMOnd+Wocp/KINOTJEZiHJJ
-egv09ZZG5bpc2eJYV6sXczfZOiLphcQUAsEAzBV2ObNnJXo5a82315uHgXaRmUmR
-qEXcDPTxJwxaiBHlxBLVMD8yAVu+bUiUMTJ8IxYJVIC7elBEinBqinfvqXkyI8CB
-P6G2EH4Q1qRbCFGK6U6aEGYOgmQf19YddQpn6o9VIIb7qqhJ3rcOsjmaimLz8ZUi
-b48b0bGJn5R4OJpskOYcFoUeLDJRO6tBxf9Moxmf09K3JNXaEptG8gjMBYES2U7t
-E7G2Xt8IeIDMeZdeOq9PpRfXkBkuyqlPKvEBdrVpZdJzARbJQbq9qholEh/KGmpv
-WUtGM1mJNtaSR+yhnzaSoWEr4bEbo6gfy2A1ZFzbzR5hh23fCa/i6f+nf6cDu5z4
-2M7pzWaO6znBM+gZR1cC4WSEvLLoH31erNZSq9nt1P7SVwkBX4z7hcKhxH8MCLQp
-cOEoxA==
-=Hzqf
------END PGP MESSAGE-----
