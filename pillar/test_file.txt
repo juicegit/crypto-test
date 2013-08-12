@@ -1,3 +1,15 @@
-This file should be encrypted because it exists in the pillar directory
-...maybe after reset?
-...maybe after fixing the attributes directory?
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.12 (Darwin)
+
+hQEMAwPhTt66M559AQgAnFXlEwzaKwBozthD8hea6RGeiFpZGqr2bVuBky5tUdCA
+bWvgpfMuxHAjk9znRzYP1ygB7IkJLfo2oRQo0+O8bX81JY0/077shDJvFXyWpnTD
+wmszVcm62UgGRcU30goT93x/+HgBrEi9iD8kL5PQYma6NJ/PDSbjpZIIaDT5+nrQ
+NLWpfRt5erf27E8egtsuJw5gnGZ12pPSty/dSFSAXK2ais1JNMOK67+gwDu5LMfc
+SdS+/nwAZpc9Mvl3FxP9lKS5GrQHR7Y6S+Ea6Fy6e/AOhUpDVmYV6dIJpJnfrhO/
+tZSwXV/1worPEpz5+XlWxX9Xgx+A/u5egm1Jz9F0WNKyAaKu5br2l7OJ21GmTNC4
+MTMsrT2A8oFuP9IDnb/vEllEIB0u1hr1KmA7U0QcRS42ElEDPZX8JFMFaNj8ATN8
+q5ko9ho7NkJYwk3qWtNDU68U4x4PCsa14zfysnjCe6VBJT8Vum3Sbp/PSSYnKpKK
+6mIGZF8ZuQxO+jA5QV/8b20jiSaEhb65SK9JuFF5rHEyrOpqlSs1wAY7ARSg5HHu
+A9acvA0mZ9jEUWxp3OGJsh8Auw==
+=S0lC
+-----END PGP MESSAGE-----
