@@ -1,2 +1,2 @@
 #!/bin/sh
-gpg -d -q --batch --no-tty "$1" || cat $1
+gpg -d -q --no-tty "$1" || cat $1
