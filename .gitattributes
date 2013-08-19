@@ -1,4 +1,4 @@
-*.sls filter=crypto diff=crypto
-pillar/*  filter=crypto diff=crypto
+#*.sls filter=crypto diff=crypto
+#pillar/*  filter=crypto diff=crypto
 [merge]
     renormalize=true
