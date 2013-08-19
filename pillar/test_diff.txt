@@ -1,12 +1,7 @@
-this file should be diffed 
-adding a new line
-checking to see if new signature takes effect
-passing in passphrase
-why is this in clear text without a password?
-will this be viewable by all in dbaas?
-touching file for new recipients?
-
-
-reverting back to single recipient
-one more attempt
-removing gpg encryption
+U2FsdGVkX18BAQEAAAAAAJoPITMN5YkSxBfR4cfo11eLSzc7cTZgySdPb1Rm8kdW
+TyRtsB8jo0QulI2r8PtrnJ+0VoD6ix5fNKR/gv+0+9TGDshMcX7O8F+R9hsGdUYb
+sxIgJoyAy83wboBp+JWI1NEcCY/1Kbi6TTH0o+PGTCmMz9IcajJ+9Mgr2SfbKzMh
+i5Za9uc2Jr9Zf7WoFVND2G+2ehT3ttBVZGQt77rHoFQJdnpZzKvkH3gqLOILdJSw
+csVwAVnv2nYkubR85hYBO5NkehnFrgoZj1PXRyA2sxdzj2TxUoegO/1kmcmv6Lm2
+HjRvs7AiUviFZCrmQb4ufPefssy4m8mXvon37tp4uDIl8sZWHF7ekljQs3/yslSu
+wGV9LhF+kZG9lCw7JiBVxfoO57HPDd3r6oA2g1SFxeGyUpHMXJuWtQGNWJZhT2Wz

@@ -1,2 +1,2 @@
-This is new file that will have one recipient
-removing gpg encryption
+U2FsdGVkX18BAQEAAAAAAGG+dX9R6kkqO4407GEAiFbzPreR0kuAklFKKUmw5BJa
+WCcvpBRsTjQ459fqHgo5TA7WQzYf/rTbDrtRTwgYzSIO4VH/CWG4KBzRPQuE7KYH

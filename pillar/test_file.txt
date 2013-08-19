@@ -1,13 +1,11 @@
-This file should be encrypted because it exists in the pillar directory
-...maybe after reset?
-...maybe after fixing the attributes directory?
-...maybe after wild-carding the files?
-...how about after changing the keys?
-...oh not so good, how bout just my key as hex?
-...changing existing file should only change on file?
-...test diff to make sure it decrypts the file first?
-...touching file for new recipients?
-
-reverting back to single recipient
-one more attempt
-removing gpg encryption
+U2FsdGVkX18BAQEAAAAAAFqZ0Pfj1NPtZaGFc+JlmWiwotCu5cap3cLyjz+W9wvH
+OBrJPda75An2WUrXJOloZhzNwaMs4s+nNkkFU9fwFYi/JpXN0K/3QhN3CpD/1jOT
+zmnHgCSJFzqJeygWhkaXNwbq+8zzvbN5ZJlcL3qlQnJg6g8WaQKIcJwZnil1iDNr
+Ol2ssRqg93p6djcAVNjp18qVIX/Kinzjt06LSsaelTxI6/wHWFHbeK8LxilNPFJh
+hlrH+SC/bYZvChXdu+QP4h4NZE1Jb5FyXhctBBDGPtsUnBHPvrOmfikK2ZIEIlq6
+lA+viJfr3GCoWLkjb3f9T1aG8RbpA8QL33NnCKr8ELIDX4I7pDc+Y7Dml/VLj6pm
+wZonvBAPtMrY3qoFAqnEbSOOYwwuU+eWsd+hJm46Sh5e+Ie2CRKc6uRlbm0pB76l
+gNA8Xyt5T67w8QBvf9pAb3wymB0OZtrJz6oOop2e5PjFClGHyo607EH/Ou8ExjC9
+OeN1aVLhbZul8sBF0e0hgg7FuCCfF6YWpwqwtz1X0mkWRAE5hWv5ZTncEZnSZ5Xc
+BY3Pbfss6oXkmlB3VJ7QCe2WMaEQmHtE0dQOBhobMiYKHhx0j+EH41BRRVD2qe3a
+nkOjrtXjqbzyf8AjgDuhyTBvSbxBb9irwBe5xoLXddk=
