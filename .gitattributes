@@ -1,4 +1,4 @@
-*.sls filter=crypto-gpg diff=crypto-gpg text
-pillar/*  filter=crypto-gpg diff=crypto-gpg text
+*.sls filter=crypto diff=crypto
+pillar/*  filter=crypto diff=crypto
 [merge]
     renormalize=true
