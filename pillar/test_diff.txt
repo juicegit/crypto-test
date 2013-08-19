@@ -1,16 +1,12 @@
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (Darwin)
+this file should be diffed 
+adding a new line
+checking to see if new signature takes effect
+passing in passphrase
+why is this in clear text without a password?
+will this be viewable by all in dbaas?
+touching file for new recipients?
 
-hQEMAwPhTt66M559AQgAugnY5I+l6ncBEsXAyR830GMaGVuOdV3vq1uKLZTrmNOK
-+1cICTG6hlY8qEAup8H/y5nMlZ1zU4ZTTO7PKZxsb5vsdoXHil75BGLAihqBjdLI
-AI3KdIKlu1Sb8shgMTWHiRAYl8IeWlrovtC/gPeaP3mkzZLpjtEuQ18njs5299JH
-AHKUhybyfK15G22V/BWxBkVMxlk6OyGJ79V6Pencohsgi+aC94wogFThLJ9907H1
-LDHPWtcPIqYjjBkh2fvW6zU61w00JcPILULG+nOzhEkABNtjmJjB9b06dZ78/ga9
-9kne1jQ7go0JPlauJFcHjbdOPv4cB3ThJcYyRZaG7dLANgH8zwJQVcGAXIcccsiN
-ir1a/n/TAfMoEw4r5i8mpkfow35Vr8+wxCdU5kC+hb80iHM7R0pQ8iXfNHzaaJ6V
-VIutEgplJV1UDi/OGt8gzt8TI9GizFH0oCTy9zrwEGQikZ+UiXe2KyOOjvalQ16a
-oYeIyrQirU9mjvzaX4B3BEF8uKaUZRwlYVkRs0083GvePROd9Fn8AyNyEk+uZsag
-m3BIPP2ypHEPqfjJhQM31xEryzWjVYxYqaYRtTz3b4QH6bScIDuvjpeTMm5TBVNi
-GZN1/LXotgBnGw1F+7ke7gU4lgl8hO/COPv9i7w3usa5wIJgC8RRRw==
-=Ppo2
------END PGP MESSAGE-----
+
+reverting back to single recipient
+one more attempt
+removing gpg encryption

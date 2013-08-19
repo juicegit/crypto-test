@@ -1,14 +1,12 @@
-[GNUPG:] NODATA 1
-[GNUPG:] NODATA 2
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (Darwin)
+this is a secret!  You shall not pass!
+this more secret information
+using global configurations
+touching file for new encryption recipients
+reverting back to single recipient
+one more time
+and yet another 
 
-hQEMAwPhTt66M559AQf+PPyZTKU9xAfV2MfKjEQ80FBzglwP/hTQBgVvPqAQnbDt
-R9nWgB3gz19lnb8YgHj1I9z1VnMo4zRL0NjtDRUevQJX2iGXm11MqrxAFBxfcnYf
-c2pqJ4bEKsaOJd2mV27I+ErBxanDXSJcljaJeXoU67ONcoIpzXzOy8mps/AoaoCF
-k7DJvv9oDANXJse/7hjEkp1ssaTq5ossg5yRZlD1iE/FBT03Fa90c14ItIMvkmX/
-5laA6JEJvv+QyfK/O7VgDJijEgqIKY80ZctiKTyYBBr97snDEqX62aDHziKU/ju1
-sBgqwW8w/Q/uVLw4BPm3gKO1MqP8AvA5Vo5SXAdzPNI7AZ/w3zam+Hgc9FXouTip
-Lgb2l1kkXZrDR9fyCTN/Fnqwpe0SiOPCMK403xswoPTJrp4ZTEyD6UsU5V0=
-=/yr+
------END PGP MESSAGE-----
+this is testing if refresh of the index is a bad move
+checking if text attribute helps
+removing gpg encrytion
+

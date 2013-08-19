@@ -1,18 +1,13 @@
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (Darwin)
+This file should be encrypted because it exists in the pillar directory
+...maybe after reset?
+...maybe after fixing the attributes directory?
+...maybe after wild-carding the files?
+...how about after changing the keys?
+...oh not so good, how bout just my key as hex?
+...changing existing file should only change on file?
+...test diff to make sure it decrypts the file first?
+...touching file for new recipients?
 
-hQEMAwPhTt66M559AQgAoZ/U38akjvjPXq2HV//Bct8CLx7G9aBxjCoSMSSWAI5G
-BW4ENy8JR6wqkOoAlj2A80qsacR3+i8SoTHufI8I1UC2dt4sDaSl9v5NS2PBvXTx
-MdbLHMdjgIU5n36lQf44SOULlCT/hUxJEIVEVdlxzHdhOQI0JAu7XTvmiwDWU8PK
-1H4+v/rdHHMGyxHmleP8O8dcV726XQeDs+7iE3NJID+x6EqyyybAs4HtIF9GYBbD
-LSj2PXczhNfqIbRncUbUDTLHR4VtYPXGKC5yb4o1FNEtB5rDtzPsoduN8U1J/HzK
-WDHzJZ6+4YG+iU3/uIsXbq8ThIWMF5hqiRYlkrivLtLAdwGsMnhjNlCiJyMg77/v
-l5BqIPK86NXwxr4N2zGEclqcjkUoHRCO8stufVia+cqLDLHkIMz9xQSwOgVupAOd
-ziGY3Jze25m5aJmk8vlS6JzuqPx9oBJwZ5rfipKol2D2y4fIwT8OaIJJ+XHM64U6
-pB2xOjK2Mn8IcKOk5zv7vR9JUSOiBANKi4cGN2m8gAaFUrNJQU+wnOlZQccqqyFh
-PecxPq7Oce7sGDpGzjo2ah2xOba/7Xc5Q5XMXJ8O5ztYPXyzJX1weANqNYE2kKi5
-3T5dIDsYRWTs5ZL5jUhkD5rbsAXAosdIEYvfjp1MRGeAsjL+/SxOXDHMRXL27VqY
-8r509zqlxQ6nyE+dOQnRGt/NDIU6S+OYIsK7p5rxDW0PpIAhrtsToEOpSosFYUzm
-2ZwnrZ+H2Pjj
-=oN+b
------END PGP MESSAGE-----
+reverting back to single recipient
+one more attempt
+removing gpg encryption

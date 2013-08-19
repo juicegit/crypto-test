@@ -1,14 +1,6 @@
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (Darwin)
+yet anopther file
+touching file for new recipients encryption
 
-hQEMAwPhTt66M559AQf/SeDczAllaFF6QXmkx18D0hspmfQInYtouemYJSCno+wh
-WQyq/QmeFDRfCnucOfApgxi+c3wewbMI/E1DovgdqGIMjW9oyhBK47x0+M7YFMS0
-NpQELa1UPVanCtVztSbK4syaK7ibQGoioCwbCpUaeoHgu6amt6u+YJe1QUCfybHr
-2lfYhqbjqxzXWSXLQDZF5iZR8dP0PpxflmOWg2pqPmMQYAw/+4PEM4+xS7w8x/3P
-r5HV2ayfOL9FAMMNrCHu6yqdFWdv9XP3yHmkhNohea9dpD54FtFG6H7x+NtOsiNR
-lxORGvg0O1tqF9O43bw4X4H0UglLV6FALUXXWQldENKVAQrm25dmKQxi5XzKRt6q
-d0QcEhJs9BWUk6Tr37MjecSd8g91foz7P/t5XlplbAt5fpJpJzujiO+aVGLoot3k
-2We2WY3GXLAvmD08Yly59zlesPZ47Bl/CFQ+erWYvXWsHA78GKwPdhdCL1JjEKRd
-k2JuLvkoXOuUwXsAFrztUFDnumhzdnBIPPgHE1dPBRdEhjWF5zs=
-=fNMe
------END PGP MESSAGE-----
+reverting back to single recipient
+one more attempt
+removing gpg encryption

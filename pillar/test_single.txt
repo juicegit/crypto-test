@@ -1,13 +1,2 @@
------BEGIN PGP MESSAGE-----
-Version: GnuPG v1.4.12 (Darwin)
-
-hQEMAwPhTt66M559AQf/fkpPgKQV8BL9M4/fWwvTiyfBwsZ2ujHcZVTrveeE2YIE
-3nbN88xf0jzGqZCO+sIhOEHBlb89bzfQ9M8ZBs2KXQ7EJPTSXdNeDI69bTKLRJGN
-mqaP5mgNi9WvAlQlAGUvqacOyXCFr/rSCY7PkKmq+Pvq+jyb/9JUlZYql6oYKgdQ
-k8YF/tIQ5IUk2g7AlvHvgCb6nFORCW71QyYILfY0iwby2FwTyRm86pezmD9727j+
-BUxIXSDKTgy0z9IyXlHNZh7ywJ6EXXowo9iT4brH7Z/4uGW3nVWRAbYTSt+lu6Iv
-FDOrN69zrEUozCtQnpgNDD5/+6A8+9pDdAeC8N9lQ9JnAQK3YrVI8acgKYWDwQ7u
-B8lCP+RGoYuWeKf50HDxM2VqyFzqHWzfXnKSctVwe/6k5Ljl87Dcvslq2+RUK1L5
-zGmiBLoUNe7R+D/C8qSc7xG6VuN96HMwxeTvPtu7yorw8CR0G2doFw==
-=eMou
------END PGP MESSAGE-----
+This is new file that will have one recipient
+removing gpg encryption
